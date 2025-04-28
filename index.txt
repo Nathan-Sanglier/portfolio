@@ -1,40 +1,39 @@
-vCard - Personal Portfolio
+Nathan Sanglier - Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Nathan Sanglier
+Nathan Sanglier
+Quantitative Analyst
 
 Show Contacts
 
 Email
-richard@example.com
+nathan.sanglier@gmail.com
 
 Phone
-+1 (213) 352-2795
++33 6 98 43 37 74
 
 Birthday
-June 23, 1982
+September 7, 2001
 
 Location
-Sacramento, California, USA
+Paris, France
 
 # navbar
 
 About
 Resume
 Portfolio
-Blog
 Contact
 
 # about
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a Quantitative Analyst with a strong background in mathematics and finance. I enjoy diving into complex problems and finding elegant solutions through data analysis and modeling.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Passionate about quantitative finance, finance, machine learning, and football, I have a keen interest in exploring the intersection of these fields. I believe that data-driven insights can lead to better decision-making and improved performance in both finance and sports.
 
 
 ## service
@@ -42,49 +41,22 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Quantitative finance
+Leveraging stochastic calculus and statistics to manage risks with precision.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Machine Learning
+Providing intuitive insights to complex algorithms.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Football
+Applying quantitative analysis to football teams to enhance performance.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+## companies
 
-
-## testimonials
-
-Testimonials
-
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
+Companies
 
 alt = client logo
-
 
 
 # resume
